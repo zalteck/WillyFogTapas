@@ -1,0 +1,1376 @@
+,country_name,country_border_name
+0,Abkhazia,Georgia
+1,Abkhazia,Russia
+2,Abkhazia,Turkey
+3,Adélie Land (France), Australian Antarctic Territory (Australia)
+4,Afghanistan,China
+5,Afghanistan,Iran
+6,Afghanistan,Pakistan
+7,Afghanistan,Tajikistan
+8,Afghanistan,Turkmenistan
+9,Afghanistan,Uzbekistan
+10,Akrotiri and Dhekelia (United Kingdom),CyprusUnited Nations Buffer Zone in Cyprus
+11,Albania,Greece
+12,Albania,Italy
+13,Albania,Montenegro
+14,Albania,North Macedonia
+15,Albania,Kosovo
+16,Algeria,Italy
+17,Algeria,Libya 
+18,Algeria,Mali
+19,Algeria,Mauritania
+20,Algeria,Morocco
+21,Algeria,Niger
+22,Algeria,Spain
+23,Algeria,Tunisia
+24,Algeria, Western Sahara
+25,American Samoa(United States),Samoa
+26,American Samoa(United States),Tonga
+27,American Samoa(United States),Cook Islands(New Zealand)
+28,American Samoa(United States),Niue(New Zealand)
+29,American Samoa(United States),Tokelau(New Zealand)
+30,Andorra,France
+31,Andorra,Spain
+32,Angola,Democratic Republic of the Congo
+33,Angola,Republic of the Congo
+34,Angola,Namibia
+35,Angola,Zambia
+36,Anguilla (United Kingdom),Antigua and Barbuda
+37,Anguilla (United Kingdom),British Virgin Islands (United Kingdom)
+38,Anguilla (United Kingdom),Netherlands
+39,Anguilla (United Kingdom),Saint Barthélemy(France) Saint Martin(France)
+40,Anguilla (United Kingdom),United States Virgin Islands(United States)
+41,Antigua and Barbuda,France
+42,Antigua and Barbuda,Saint Kitts and Nevis
+43,Antigua and Barbuda,Anguilla (United Kingdom)
+44,Antigua and Barbuda,Montserrat (United Kingdom) Saint Barthélemy(France)
+45,Argentina,Bolivia
+46,Argentina,Brazil
+47,Argentina,Chile
+48,Argentina,Paraguay
+49,Argentina,Uruguay
+50,Argentina,Falkland Islands(United Kingdom)
+51,Argentine Antarctica (Argentina),Chilean Antarctic Territory (Chile)
+52,Argentine Antarctica (Argentina),British Antarctic Territory (United Kingdom)
+53,Armenia,Azerbaijan
+54,Armenia,Georgia
+55,Armenia,Iran
+56,Armenia,Turkey
+57,Republic of Artsakh,Armenia
+58,Republic of Artsakh,Azerbaijan
+59,Republic of Artsakh,Iran
+60,Aruba(Netherlands),Curaçao(Netherlands)
+61,Aruba(Netherlands),Dominican Republic
+62,Aruba(Netherlands),Venezuela
+63,Ashmore and Cartier Islands(Australia),Australia
+64,Ashmore and Cartier Islands(Australia),East Timor
+65,Ashmore and Cartier Islands(Australia),Indonesia
+66,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,East Timor
+67,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,Indonesia
+68,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,New Zealand
+69,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,Papua New Guinea
+70,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,Solomon Islands
+71,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,French Southern and Antarctic Lands (France)
+72,Australia→includes:→;Ashmore and Cartier Islands→;Christmas Island→;Cocos (Keeling) Islands→;Coral Sea Islands→;Heard Island and McDonald Islands→;Norfolk Island,New Caledonia(France)
+73,Australia (excluding outlying islands),Ashmore and Cartier Islands(Australia)
+74,Australia (excluding outlying islands),Coral Sea Islands(Australia)
+75,Australia (excluding outlying islands),East Timor
+76,Australia (excluding outlying islands),Indonesia
+77,Australia (excluding outlying islands),New Zealand
+78,Australia (excluding outlying islands),Papua New Guinea
+79,Australian Antarctic Territory (Australia), Adélie Land (France) Queen Maud Land (Norway) Ross Dependency (New Zealand)
+80,Austria,Czech Republic
+81,Austria,Germany
+82,Austria,Hungary
+83,Austria,Italy
+84,Austria,Liechtenstein
+85,Austria,Slovakia
+86,Austria,Slovenia
+87,Austria,Switzerland
+88,Azerbaijan,Armenia
+89,Azerbaijan,Georgia
+90,Azerbaijan,Iran
+91,Azerbaijan,Kazakhstan
+92,Azerbaijan,Russia
+93,Azerbaijan,Turkey
+94,Azerbaijan,Turkmenistan
+95,Bahamas,Cuba
+96,Bahamas,Haiti
+97,Bahamas,United States
+98,Bahamas,Turks and Caicos Islands (United Kingdom)
+99,Bahrain,Iran
+100,Bahrain,Qatar
+101,Bahrain,Saudi Arabia
+102,Baker Island(United States), Howland Island(United States)
+103,Baker Island(United States),Kiribati
+104,Bangladesh,Myanmar
+105,Bangladesh,India
+106,Barbados,France
+107,Barbados,Guyana
+108,Barbados,Saint Lucia
+109,Barbados,Saint Vincent and the Grenadines
+110,Barbados,Trinidad and Tobago
+111,Barbados,Venezuela
+112,Belarus,Latvia
+113,Belarus,Lithuania
+114,Belarus,Poland
+115,Belarus,Russia
+116,Belarus,Ukraine
+117,Belgium,France
+118,Belgium,Germany
+119,Belgium,Luxembourg
+120,Belgium,Netherlands
+121,Belgium,United Kingdom
+122,Belize,Guatemala
+123,Belize,Honduras 
+124,Belize,Mexico
+125,Benin,Burkina Faso
+126,Benin,Niger
+127,Benin,Nigeria
+128,Benin,Togo
+129,Bhutan,China
+130,Bhutan,India
+131,Bolivia,Argentina
+132,Bolivia,Brazil
+133,Bolivia,Chile
+134,Bolivia,Paraguay
+135,Bolivia,Peru
+136,Bosnia and Herzegovina,Croatia
+137,Bosnia and Herzegovina,Montenegro
+138,Bosnia and Herzegovina,Serbia
+139,Botswana,Namibia
+140,Botswana,South Africa 
+141,Botswana,Zambia
+142,Botswana,Zimbabwe
+143,Brazil,Argentina
+144,Brazil,Bolivia
+145,Brazil,Colombia
+146,Brazil,France
+147,Brazil,Guyana
+148,Brazil,Paraguay
+149,Brazil,Peru
+150,Brazil,Suriname
+151,Brazil,Uruguay
+152,Brazil,Venezuela
+153,British Antarctic Territory (United Kingdom),Chilean Antarctic Territory (Chile)
+154,British Antarctic Territory (United Kingdom),Argentine Antarctica (Argentina) Queen Maud Land (Norway)
+155,British Indian Ocean Territory (United Kingdom),Maldives
+156,British Virgin Islands (United Kingdom),Anguilla (United Kingdom)
+157,British Virgin Islands (United Kingdom),Puerto Rico(United States)
+158,British Virgin Islands (United Kingdom),United States Virgin Islands(United States)
+159,Brunei,China
+160,Brunei,Malaysia
+161,Brunei,Philippines
+162,Brunei,Taiwan
+163,Brunei,Vietnam
+164,Bulgaria,Greece 
+165,Bulgaria,North Macedonia
+166,Bulgaria,Romania
+167,Bulgaria,Serbia
+168,Bulgaria,Turkey
+169,Burkina Faso,Benin 
+170,Burkina Faso,Côte d'Ivoire
+171,Burkina Faso,Ghana
+172,Burkina Faso,Mali
+173,Burkina Faso,Niger
+174,Burkina Faso,Togo
+175,Burundi,Democratic Republic of the Congo
+176,Burundi,Rwanda
+177,Burundi,Tanzania
+178,Cambodia,Laos
+179,Cambodia,Malaysia
+180,Cambodia,Thailand
+181,Cambodia,Vietnam
+182,Cameroon,Central African Republic
+183,Cameroon,Chad
+184,Cameroon,Republic of the Congo
+185,Cameroon,Equatorial Guinea
+186,Cameroon,Gabon
+187,Cameroon,Nigeria
+188,Canada,United States
+189,Canada,Greenland(Denmark)
+190,Canada,Saint Pierre and Miquelon(France)
+191,Cape Verde,The Gambia
+192,Cape Verde,Mauritania
+193,Cape Verde,Senegal
+194,Cayman Islands (United Kingdom),Cuba
+195,Cayman Islands (United Kingdom),Honduras 
+196,Cayman Islands (United Kingdom),Jamaica
+197,Central African Republic,Cameroon
+198,Central African Republic,Chad
+199,Central African Republic,Democratic Republic of the Congo
+200,Central African Republic,Republic of the Congo
+201,Central African Republic,South Sudan
+202,Central African Republic,Sudan
+203,Chad,Cameroon
+204,Chad,Central African Republic
+205,Chad,Libya
+206,Chad,Niger
+207,Chad,Nigeria
+208,Chad,Sudan
+209,Chile,Argentina
+210,Chile,Bolivia
+211,Chile,Peru
+212,Chilean Antarctic Territory (Chile),Argentine Antarctica (Argentina)
+213,Chilean Antarctic Territory (Chile),British Antarctic Territory (United Kingdom) Peter I Island (Norway)
+214,China,Afghanistan
+215,China,Bhutan
+216,China,Brunei
+217,China,India
+218,China,Indonesia
+219,China,Japan
+220,China,Kazakhstan
+221,China,North Korea
+222,China,South Korea
+223,China,Kyrgyzstan
+224,China,Laos
+225,China,Malaysia
+226,China,Mongolia
+227,China,Myanmar
+228,China,
+229,China,Nepal
+230,China,Pakistan
+231,China,Philippines
+232,China,Russia
+233,China,Tajikistan
+234,China,Vietnam
+235,China,Hong Kong (China)
+236,China,Macau (China)
+237,China,Taiwan
+238,Christmas Island(Australia),Indonesia
+239,Colombia,Brazil
+240,Colombia,Costa Rica
+241,Colombia,Dominican Republic
+242,Colombia,Ecuador
+243,Colombia,Haiti
+244,Colombia,Jamaica
+245,Colombia,Nicaragua
+246,Colombia,Panama
+247,Colombia,Peru
+248,Colombia,Venezuela
+249,Comoros,France
+250,Comoros,Madagascar
+251,Comoros,Mozambique
+252,Comoros,Seychelles
+253,Comoros,Tanzania
+254,Comoros,French Southern and Antarctic Lands(France)
+255,Democratic Republic of the Congo,Angola
+256,Democratic Republic of the Congo,Burundi
+257,Democratic Republic of the Congo,Central African Republic
+258,Democratic Republic of the Congo,Republic of the Congo
+259,Democratic Republic of the Congo,Rwanda
+260,Democratic Republic of the Congo,South Sudan
+261,Democratic Republic of the Congo,Tanzania
+262,Democratic Republic of the Congo,Uganda
+263,Democratic Republic of the Congo,Zambia
+264,Republic of the Congo,Angola
+265,Republic of the Congo,Cameroon
+266,Republic of the Congo,Central African Republic
+267,Republic of the Congo,Democratic Republic of the Congo
+268,Republic of the Congo,Gabon
+269,Cook Islands(New Zealand),Kiribati
+270,Cook Islands(New Zealand),American Samoa(United States)
+271,Cook Islands(New Zealand),French Polynesia(France)
+272,Cook Islands(New Zealand),Niue(New Zealand)
+273,Cook Islands(New Zealand),Tokelau(New Zealand)
+274,Coral Sea Islands(Australia),Australia
+275,Coral Sea Islands(Australia),New Caledonia(France)
+276,Coral Sea Islands(Australia),Papua New Guinea
+277,Coral Sea Islands(Australia),Solomon Islands
+278,Costa Rica,Colombia
+279,Costa Rica,Ecuador
+280,Costa Rica,Nicaragua
+281,Costa Rica,Panama
+282,Côte d'Ivoire,Burkina Faso
+283,Côte d'Ivoire,Ghana
+284,Côte d'Ivoire,Guinea
+285,Côte d'Ivoire,Liberia
+286,Côte d'Ivoire,Mali
+287,Croatia,Bosnia and Herzegovina
+288,Croatia,Hungary
+289,Croatia,Italy
+290,Croatia,Montenegro
+291,Croatia,Serbia
+292,Croatia,Slovenia
+293,Cuba,Bahamas
+294,Cuba,Haiti
+295,Cuba,Honduras
+296,Cuba,Jamaica
+297,Cuba,Mexico
+298,Cuba,United States
+299,Cuba,Cayman Islands (United Kingdom)
+300,Cuba,Navassa Island (United States)
+301,Curaçao(Netherlands),Dominican Republic
+302,Curaçao(Netherlands),Netherlands
+303,Curaçao(Netherlands),Venezuela
+304,Curaçao(Netherlands),Aruba(Netherlands)
+305,Cyprus,Northern Cyprus
+306,Cyprus,Egypt
+307,Cyprus,Greece
+308,Cyprus,Israel
+309,Cyprus,Lebanon
+310,Cyprus,Syria
+311,Cyprus,Turkey Akrotiri and Dhekelia (United Kingdom)United Nations Buffer Zone in Cyprus
+312,Northern Cyprus,Cyprus
+313,Northern Cyprus,Syria
+314,Northern Cyprus,Turkey Akrotiri and Dhekelia (United Kingdom)United Nations Buffer Zone in Cyprus
+315,Czech Republic,Austria
+316,Czech Republic,Germany
+317,Czech Republic,Poland
+318,Czech Republic,Slovakia
+319,Denmark,Germany
+320,Denmark,Norway
+321,Denmark,Poland
+322,Denmark,Sweden
+323,Denmark,United Kingdom
+324,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Canada
+325,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Germany
+326,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Iceland
+327,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Norway
+328,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Poland
+329,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Sweden
+330,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,United Kingdom
+331,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Jan Mayen(Norway)
+332,Denmark Kingdom of→includes:→;Denmark→;Faroe Islands→;Greenland,Svalbard (Norway)
+333,Djibouti,Eritrea
+334,Djibouti,Ethiopia
+335,Djibouti,Somalia
+336,Djibouti,Yemen Djibouti borders Somaliland who is considered by the international community to be part of Somalia
+337,Dominica,France
+338,Dominica,Venezuela
+339,Dominican Republic,Colombia
+340,Dominican Republic,Haiti
+341,Dominican Republic,Venezuela
+342,Dominican Republic,Aruba(Netherlands)
+343,Dominican Republic,Curaçao(Netherlands)
+344,Dominican Republic,Puerto Rico(United States)
+345,Dominican Republic,Turks and Caicos Islands (United Kingdom)
+346,East Timor,Australia
+347,East Timor,Indonesia
+348,East Timor,Ashmore and Cartier Islands(Australia)
+349,Ecuador,Colombia
+350,Ecuador,Costa Rica
+351,Ecuador,Peru
+352,Egypt,Cyprus
+353,Egypt,Greece
+354,Egypt,Israel
+355,Egypt,Jordan
+356,Egypt,Libya
+357,Egypt,Saudi Arabia
+358,Egypt,Sudan
+359,Egypt,Turkey
+360,Egypt,Palestine
+361,El Salvador,Guatemala
+362,El Salvador,Honduras
+363,El Salvador,Nicaragua
+364,Equatorial Guinea,Cameroon
+365,Equatorial Guinea,Gabon
+366,Equatorial Guinea,Nigeria
+367,Equatorial Guinea,São Tomé and Príncipe
+368,Eritrea,Djibouti
+369,Eritrea,Saudi Arabia
+370,Eritrea,Sudan
+371,Eritrea,Ethiopia
+372,Eritrea,Yemen
+373,Estonia,Finland
+374,Estonia,Latvia
+375,Estonia,Russia
+376,Estonia,Sweden
+377,Eswatini (Swaziland),Mozambique
+378,Eswatini (Swaziland),South Africa
+379,Ethiopia,Djibouti
+380,Ethiopia,Eritrea
+381,Ethiopia,Kenya
+382,Ethiopia,Somalia
+383,Ethiopia,South Sudan
+384,Ethiopia,Sudan
+385,Falkland Islands(United Kingdom),Argentina
+386,Faroe Islands(Denmark),Iceland
+387,Faroe Islands(Denmark),Norway
+388,Faroe Islands(Denmark),United Kingdom
+389,Fiji,Solomon Islands
+390,Fiji,Tonga
+391,Fiji,Tuvalu
+392,Fiji,Vanuatu
+393,Fiji,New Caledonia(France)
+394,Fiji,Wallis and Futuna(France)
+395,Finland,Estonia
+396,Finland,Norway
+397,Finland,Russia
+398,Finland,Sweden
+399,France,Andorra
+400,France,Antigua and Barbuda
+401,France,Barbados
+402,France,Belgium 
+403,France,Brazil
+404,France,Comoros
+405,France,Dominica
+406,France,Germany
+407,France,Italy
+408,France,Luxembourg
+409,France,Madagascar
+410,France,Mauritius
+411,France,Monaco
+412,France,Saint Lucia
+413,France,Spain
+414,France,Switzerland
+415,France,Suriname
+416,France,United Kingdom
+417,France,Venezuela
+418,France,French Southern and Antarctic Lands (France)
+419,France,Guernsey(United Kingdom)
+420,France,Jersey(United Kingdom)
+421,France,Montserrat (United Kingdom)
+422,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Andorra
+423,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Antigua and Barbuda
+424,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Barbados
+425,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Belgium
+426,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Brazil
+427,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Canada
+428,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Comoros
+429,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Dominica
+430,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Fiji
+431,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Germany
+432,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Italy
+433,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Kiribati
+434,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Luxembourg
+435,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Madagascar
+436,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Mauritius
+437,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Monaco
+438,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Mozambique
+439,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Netherlands 
+440,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Saint Kitts and Nevis
+441,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Saint Lucia
+442,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Samoa
+443,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Seychelles
+444,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Solomon Islands
+445,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Spain
+446,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Suriname
+447,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Switzerland
+448,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Tonga
+449,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Tuvalu
+450,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,United Kingdom
+451,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Vanuatu
+452,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Venezuela
+453,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Anguilla (United Kingdom)
+454,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Cook Islands(New Zealand)
+455,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Coral Sea Islands(Australia)
+456,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Guernsey(United Kingdom) Heard Island and McDonald Islands(Australia)
+457,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Jersey(United Kingdom)
+458,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Montserrat (United Kingdom)
+459,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Sint Maarten(Netherlands)
+460,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Norfolk Island(Australia)
+461,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Pitcairn Islands (United Kingdom)
+462,France (including French collectivities and territories)→includes:→;Clipperton Island→;French Polynesia→;French Southern and Antarctic Lands→;New Caledonia→;Saint Barthélemy→ Saint Martin→;Saint Pierre and Miquelon→;Wallis and Futuna,Tokelau(New Zealand)
+463,French Polynesia(France),Kiribati
+464,French Polynesia(France),Cook Islands(New Zealand)
+465,French Polynesia(France),Pitcairn Islands (United Kingdom)
+466,French Southern and Antarctic Lands Excluding Adélie Land (France),Comoros
+467,French Southern and Antarctic Lands Excluding Adélie Land (France),France
+468,French Southern and Antarctic Lands Excluding Adélie Land (France),Madagascar
+469,French Southern and Antarctic Lands Excluding Adélie Land (France),Mauritius
+470,French Southern and Antarctic Lands Excluding Adélie Land (France),Mozambique
+471,French Southern and Antarctic Lands Excluding Adélie Land (France),Seychelles
+472,French Southern and Antarctic Lands Excluding Adélie Land (France),Heard Island and McDonald Islands(Australia)
+473,Gabon,Cameroon
+474,Gabon,Republic of the Congo
+475,Gabon,Equatorial Guinea
+476,Gabon,São Tomé and Príncipe
+477,The Gambia,Cape Verde
+478,The Gambia,Senegal
+479,Georgia,Armenia
+480,Georgia,Azerbaijan
+481,Georgia,Russia
+482,Georgia,Turkey
+483,Germany,Austria
+484,Germany,Belgium
+485,Germany,Czech Republic
+486,Germany,Denmark
+487,Germany,France
+488,Germany,Luxembourg
+489,Germany,Netherlands
+490,Germany,Poland
+491,Germany,Sweden
+492,Germany,Switzerland
+493,Germany,United Kingdom
+494,Ghana,Burkina Faso
+495,Ghana,Côte d'Ivoire
+496,Ghana,Togo
+497,Gibraltar (United Kingdom),Spain
+498,Greece,Albania
+499,Greece,Bulgaria
+500,Greece,Cyprus
+501,Greece,Egypt
+502,Greece,Italy
+503,Greece,Libya
+504,Greece,North Macedonia
+505,Greece,Turkey
+506,Greenland(Denmark),Canada
+507,Greenland(Denmark),Iceland
+508,Greenland(Denmark),Jan Mayen(Norway)
+509,Greenland(Denmark),Svalbard(Norway)
+510,Grenada,Saint Vincent and the Grenadines
+511,Grenada,Trinidad and Tobago
+512,Grenada,Venezuela
+513,Guam(United States),Federated States of Micronesia
+514,Guam(United States),Northern Mariana Islands(United States)
+515,Guatemala,Belize
+516,Guatemala,El Salvador
+517,Guatemala,Honduras
+518,Guatemala,Mexico
+519,Guernsey(United Kingdom),France
+520,Guernsey(United Kingdom),United Kingdom
+521,Guernsey(United Kingdom),Jersey(United Kingdom)
+522,Guinea,Côte d'Ivoire
+523,Guinea,Guinea-Bissau
+524,Guinea,Liberia
+525,Guinea,Mali
+526,Guinea,Senegal
+527,Guinea,Sierra Leone
+528,Guinea-Bissau,Guinea
+529,Guinea-Bissau,Senegal
+530,Guyana,Barbados
+531,Guyana,Brazil
+532,Guyana,Suriname
+533,Guyana,Trinidad and Tobago
+534,Guyana,Venezuela
+535,Haiti,Bahamas
+536,Haiti,Colombia
+537,Haiti,Cuba
+538,Haiti,Dominican Republic
+539,Haiti,Jamaica
+540,Haiti,Navassa Island (United States)
+541,Haiti,Turks and Caicos Islands (United Kingdom)
+542,Heard Island and McDonald Islands(Australia),French Southern and Antarctic Lands (France)
+543,Honduras,Belize
+544,Honduras,Cuba
+545,Honduras,El Salvador
+546,Honduras,Guatemala
+547,Honduras,Jamaica
+548,Honduras,Mexico
+549,Honduras,Nicaragua
+550,Honduras,Cayman Islands (United Kingdom)
+551,Hong Kong(People's Republic of China),China
+552,Howland Island(United States), Baker Island(United States)
+553,Hungary,Austria
+554,Hungary,Croatia
+555,Hungary,Romania
+556,Hungary,Serbia
+557,Hungary,Slovakia
+558,Hungary,Slovenia
+559,Hungary,Ukraine
+560,Iceland,Faroe Islands(Denmark)
+561,Iceland,Greenland(Denmark)
+562,Iceland,Jan Mayen(Norway)
+563,India,Bangladesh
+564,India,Bhutan
+565,India,Myanmar
+566,India,China
+567,India,Indonesia
+568,India,Maldives
+569,India,
+570,India,Nepal
+571,India,Pakistan
+572,India,Sri Lanka
+573,India,Thailand
+574,Indonesia,Australia
+575,Indonesia,China
+576,Indonesia,East Timor
+577,Indonesia,India
+578,Indonesia,Malaysia
+579,Indonesia,Palau
+580,Indonesia,Papua New Guinea
+581,Indonesia,Philippines
+582,Indonesia,Singapore
+583,Indonesia,Taiwan
+584,Indonesia,Thailand
+585,Indonesia,Vietnam
+586,Indonesia,Ashmore and Cartier Islands(Australia)
+587,Indonesia,Christmas Island(Australia)
+588,Iran,Afghanistan
+589,Iran,Armenia
+590,Iran,Azerbaijan
+591,Iran,Bahrain
+592,Iran,Iraq
+593,Iran,Kuwait
+594,Iran,Oman
+595,Iran,Pakistan
+596,Iran,Qatar
+597,Iran,Saudi Arabia
+598,Iran,Turkey
+599,Iran,Turkmenistan
+600,Iran,United Arab Emirates
+601,Iraq,Iran
+602,Iraq,Jordan
+603,Iraq,Kuwait
+604,Iraq,Saudi Arabia
+605,Iraq,Syria
+606,Iraq,Turkey
+607,Ireland,United Kingdom
+608,Isle of Man(United Kingdom),United Kingdom
+609,Israel,Cyprus
+610,Israel,Egypt
+611,Israel,Jordan
+612,Israel,Lebanon
+613,Israel,Syria
+614,Israel,Palestine
+615,Italy,Albania
+616,Italy,Algeria
+617,Italy,Austria
+618,Italy,Croatia
+619,Italy,France
+620,Italy,Greece
+621,Italy,Libya
+622,Italy,Malta
+623,Italy,Montenegro
+624,Italy,San Marino
+625,Italy,Slovenia
+626,Italy,Spain
+627,Italy,Switzerland
+628,Italy,Tunisia
+629,Italy,Vatican City
+630,Jamaica,Colombia
+631,Jamaica,Cuba
+632,Jamaica,Haiti
+633,Jamaica,Honduras
+634,Jamaica,Nicaragua
+635,Jamaica,Cayman Islands (United Kingdom)
+636,Jamaica,Navassa Island (United States)
+637,Jan Mayen(Norway),Iceland
+638,Jan Mayen(Norway),Greenland(Denmark)
+639,Japan,China
+640,Japan,South Korea
+641,Japan,Philippines
+642,Japan,Russia
+643,Japan,Northern Mariana Islands(United States)
+644,Japan,Taiwan
+645,Jarvis Island(United States),Kiribati
+646,Jersey(United Kingdom),France
+647,Jersey(United Kingdom),Guernsey(United Kingdom)
+648,Jordan,Egypt
+649,Jordan,Iraq
+650,Jordan,Israel
+651,Jordan,Saudi Arabia
+652,Jordan,Syria
+653,Jordan,Palestine(L)
+654,Kazakhstan,Azerbaijan
+655,Kazakhstan,China
+656,Kazakhstan,Kyrgyzstan
+657,Kazakhstan,Russia
+658,Kazakhstan,Turkmenistan
+659,Kazakhstan,Uzbekistan
+660,Kenya,Ethiopia
+661,Kenya,Somalia
+662,Kenya,South Sudan
+663,Kenya,Tanzania
+664,Kenya,Uganda
+665,Kingman Reef(United States),Kiribati
+666,Kingman Reef(United States),Palmyra Atoll(United States)
+667,Kiribati,Marshall Islands
+668,Kiribati,Nauru
+669,Kiribati,Tuvalu
+670,Kiribati,Cook Islands(New Zealand)
+671,Kiribati,French Polynesia(France) Baker Island(United States)
+672,Kiribati,Jarvis Island(United States)
+673,Kiribati,Kingman Reef (United States)
+674,Kiribati,Palmyra Atoll(United States)
+675,Kiribati,Tokelau(New Zealand)
+676,North Korea,China
+677,North Korea,South Korea
+678,North Korea,Russia
+679,South Korea,China
+680,South Korea,Japan
+681,South Korea,North Korea
+682,Kosovo,Albania
+683,Kosovo,Montenegro
+684,Kosovo,North Macedonia
+685,Kosovo,Serbia
+686,Kuwait,Iran
+687,Kuwait,Iraq
+688,Kuwait,Saudi Arabia
+689,Kyrgyzstan,China
+690,Kyrgyzstan,Kazakhstan
+691,Kyrgyzstan,Tajikistan
+692,Kyrgyzstan,Uzbekistan
+693,Laos,Myanmar
+694,Laos,Cambodia
+695,Laos,China
+696,Laos,Thailand
+697,Laos,Vietnam
+698,Latvia,Belarus
+699,Latvia,Estonia
+700,Latvia,Lithuania
+701,Latvia,Russia
+702,Latvia,Sweden
+703,Lebanon,Cyprus
+704,Lebanon,Israel
+705,Lebanon,Syria
+706,Lesotho,South Africa
+707,Liberia,Côte d'Ivoire
+708,Liberia,Guinea
+709,Liberia,Sierra Leone
+710,Libya,Algeria
+711,Libya,Chad
+712,Libya,Egypt
+713,Libya,Greece
+714,Libya,Italy
+715,Libya,Malta
+716,Libya,Niger
+717,Libya,Sudan
+718,Libya,Tunisia
+719,Liechtenstein,Austria
+720,Liechtenstein,Switzerland
+721,Lithuania,Belarus
+722,Lithuania,Latvia
+723,Lithuania,Poland
+724,Lithuania,Russia
+725,Lithuania,Sweden
+726,Luxembourg,Belgium
+727,Luxembourg,France
+728,Luxembourg,Germany
+729,Macau(People's Republic of China),China
+730,Madagascar,Comoros
+731,Madagascar,France
+732,Madagascar,Mauritius
+733,Madagascar,Mozambique
+734,Madagascar,Seychelles
+735,Madagascar,French Southern and Antarctic Lands(France)
+736,Malawi,Mozambique
+737,Malawi,Tanzania
+738,Malawi,Zambia
+739,Malaysia,Brunei
+740,Malaysia,Cambodia
+741,Malaysia,Indonesia
+742,Malaysia,Philippines
+743,Malaysia,Singapore
+744,Malaysia,Thailand
+745,Malaysia,Vietnam
+746,Malaysia,Taiwan
+747,Maldives,India
+748,Maldives,Sri Lanka
+749,Maldives,British Indian Ocean Territory (United Kingdom)
+750,Mali,Algeria
+751,Mali,Burkina Faso
+752,Mali,Côte d'Ivoire
+753,Mali,Guinea
+754,Mali,Mauritania
+755,Mali,Niger
+756,Mali,Senegal
+757,Malta,Italy
+758,Malta,Libya
+759,Malta,Tunisia
+760,Marshall Islands,Kiribati
+761,Marshall Islands,Federated States of Micronesia
+762,Marshall Islands,Nauru
+763,Marshall Islands,Wake Island (United States)
+764,Mauritania,Algeria
+765,Mauritania,Cape Verde
+766,Mauritania,Mali
+767,Mauritania,Senegal
+768,Mauritania, Western Sahara Mauritania borders the Western Sahara which Morocco claims as its territory
+769,Mauritius,France
+770,Mauritius,Madagascar
+771,Mauritius,Seychelles
+772,Mauritius,French Southern and Antarctic Lands(France)
+773,Mexico,Belize
+774,Mexico,Cuba
+775,Mexico,Guatemala
+776,Mexico,Honduras
+777,Mexico,United States
+778,Federated States of Micronesia,Marshall Islands
+779,Federated States of Micronesia,Palau
+780,Federated States of Micronesia,Papua New Guinea
+781,Federated States of Micronesia,Guam(United States)
+782,Midway Atoll(United States),United States
+783,Moldova,Romania
+784,Moldova,Ukraine
+785,Monaco,France
+786,Mongolia,China
+787,Mongolia,Russia
+788,Montenegro,Albania
+789,Montenegro,Bosnia and Herzegovina
+790,Montenegro,Croatia
+791,Montenegro,Italy
+792,Montenegro,Serbia
+793,Montenegro,Kosovo
+794,Montserrat (United Kingdom),Antigua and Barbuda
+795,Montserrat (United Kingdom),France
+796,Montserrat (United Kingdom),Saint Kitts and Nevis
+797,Montserrat (United Kingdom),Venezuela
+798,Morocco,Algeria
+799,Morocco,Portugal
+800,Morocco,Spain
+801,Morocco,Western Sahara.Morocco claims the Western Sahara which claims independence. The Western Sahara borders Mauritania 
+802,Mozambique,Comoros
+803,Mozambique,Eswatini (Swaziland)
+804,Mozambique,Madagascar
+805,Mozambique,Malawi
+806,Mozambique,South Africa
+807,Mozambique,Tanzania
+808,Mozambique,Zambia
+809,Mozambique,Zimbabwe
+810,Mozambique,French Southern and Antarctic Lands(France)
+811,Myanmar,Bangladesh
+812,Myanmar,China
+813,Myanmar,India
+814,Myanmar,Laos
+815,Myanmar,Thailand
+816,Namibia,Angola
+817,Namibia,Botswana
+818,Namibia,South Africa
+819,Namibia,Zambia
+820,Nauru,Kiribati
+821,Nauru,Marshall Islands
+822,Navassa Island(United States),Cuba
+823,Navassa Island(United States),Haiti
+824,Navassa Island(United States),Jamaica
+825,Nepal,India
+826,Nepal,China
+827,Netherlands,Belgium
+828,Netherlands,Germany
+829,Netherlands,Saint Kitts and Nevis
+830,Netherlands,United Kingdom
+831,Netherlands,Venezuela
+832,Netherlands,Anguilla (United Kingdom)
+833,Netherlands,Curaçao(Netherlands)
+834,Netherlands,Saint Barthélemy(France)
+835,Netherlands,Saint Martin(France)
+836,Netherlands,Sint Maarten(Netherlands)
+837,Netherlands,United States Virgin Islands(United States)
+838,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Belgium
+839,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Dominican Republic
+840,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Germany
+841,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Saint Kitts and Nevis
+842,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,United Kingdom
+843,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Venezuela
+844,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,Anguilla (United Kingdom) Saint Barthélemy(France) Saint Martin(France)
+845,Netherlands Kingdom of the→includes:→;Aruba→;Curaçao→;Netherlands→;Sint Maarten,United States Virgin Islands(United States)
+846,New Caledonia(France),Fiji
+847,New Caledonia(France),Solomon Islands
+848,New Caledonia(France),Vanuatu
+849,New Caledonia(France),Coral Sea Islands(Australia)
+850,New Caledonia(France),Norfolk Island (Australia)
+851,New Zealand,Australia
+852,New Zealand,Norfolk Island(Australia)
+853,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Australia
+854,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Kiribati
+855,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Samoa
+856,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Tonga
+857,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,American Samoa(United States)
+858,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,French Polynesia(France)
+859,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Norfolk Island(Australia)
+860,New Zealand Realm of→includes:→;Cook Islands→;New Zealand→;Niue→;Tokelau,Wallis and Futuna(France)
+861,Nicaragua,Colombia
+862,Nicaragua,Costa Rica
+863,Nicaragua,El Salvador
+864,Nicaragua,Honduras
+865,Nicaragua,Jamaica
+866,Nicaragua,Panama
+867,Niger,Algeria
+868,Niger,Benin
+869,Niger,Burkina Faso
+870,Niger,Chad
+871,Niger,Libya
+872,Niger,Mali
+873,Niger,Nigeria
+874,Nigeria,Benin
+875,Nigeria,Cameroon
+876,Nigeria,Chad
+877,Nigeria,Equatorial Guinea
+878,Nigeria,Niger
+879,Nigeria,São Tomé and Príncipe
+880,Niue(New Zealand),Tonga
+881,Niue(New Zealand),American Samoa(United States)
+882,Niue(New Zealand),Cook Islands(New Zealand)
+883,Norfolk Island(Australia),New Zealand
+884,Norfolk Island(Australia),New Caledonia(France)
+885,North Macedonia,Albania
+886,North Macedonia,Bulgaria
+887,North Macedonia,Greece
+888,North Macedonia,Serbia
+889,North Macedonia,Kosovo
+890,Northern Mariana Islands(United States),Japan
+891,Northern Mariana Islands(United States),Guam(United States)
+892,Norway,Denmark
+893,Norway,Finland
+894,Norway,Russia
+895,Norway,Sweden
+896,Norway,United Kingdom
+897,Norway,Faroe Islands(Denmark)
+898,Norway,Svalbard (Norway)
+899,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Denmark
+900,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Finland
+901,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Iceland
+902,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Russia
+903,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Sweden
+904,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,United Kingdom
+905,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Faroe Islands(Denmark)
+906,Norway Kingdom of (plus dependent Norwegian territories)→includes:→;Bouvet Island→;Jan Mayen→;Norway→;Svalbard,Greenland(Denmark)
+907,Oman,Iran
+908,Oman,Pakistan
+909,Oman,Saudi Arabia
+910,Oman,United Arab Emirates
+911,Oman,Yemen
+912,Pakistan,Afghanistan
+913,Pakistan,China
+914,Pakistan,India
+915,Pakistan,Iran
+916,Pakistan,Oman
+917,Palau,Indonesia
+918,Palau,Federated States of Micronesia
+919,Palau,Philippines
+920,Palestine,Egypt
+921,Palestine,Israel
+922,Palestine,Jordan
+923,Palmyra Atoll(United States),Kiribati
+924,Palmyra Atoll(United States),Kingman Reef(United States)
+925,Panama,Colombia
+926,Panama,Costa Rica
+927,Panama,Nicaragua
+928,Papua New Guinea,Australia
+929,Papua New Guinea,Indonesia
+930,Papua New Guinea,Federated States of Micronesia
+931,Papua New Guinea,Solomon Islands
+932,Papua New Guinea,Coral Sea Islands(Australia)
+933,Paraguay,Argentina
+934,Paraguay,Bolivia
+935,Paraguay,Brazil
+936,Peru,Bolivia
+937,Peru,Brazil
+938,Peru,Chile
+939,Peru,Colombia
+940,Peru,Ecuador
+941,Peter I Island (Norway),Chilean Antarctic Territory (Chile)
+942,Philippines,Brunei
+943,Philippines,China
+944,Philippines,Indonesia
+945,Philippines,Japan
+946,Philippines,Malaysia
+947,Philippines,Palau
+948,Philippines,Vietnam
+949,Philippines,Taiwan
+950,Pitcairn Islands (United Kingdom),French Polynesia(France)
+951,Poland,Belarus
+952,Poland,Czech Republic
+953,Poland,Denmark
+954,Poland,Germany
+955,Poland,Lithuania
+956,Poland,Russia
+957,Poland,Slovakia
+958,Poland,Sweden
+959,Poland,Ukraine
+960,Portugal,Morocco
+961,Portugal,Spain
+962,Puerto Rico(United States),Dominican Republic
+963,Puerto Rico(United States),Venezuela
+964,Puerto Rico(United States),British Virgin Islands (United Kingdom)
+965,Puerto Rico(United States),United States Virgin Islands(United States)
+966,Qatar,Bahrain
+967,Qatar,Iran
+968,Qatar,Saudi Arabia
+969,Qatar,United Arab Emirates
+970,Queen Maud Land (Norway), Australian Antarctic Territory (Australia)
+971,Queen Maud Land (Norway),British Antarctic Territory (United Kingdom)
+972,Romania,Bulgaria
+973,Romania,Hungary
+974,Romania,Moldova
+975,Romania,Russia
+976,Romania,Serbia
+977,Romania,Ukraine
+978,Ross Dependency (New Zealand), Australian Antarctic Territory (Australia)
+979,Russia,Azerbaijan
+980,Russia,Belarus
+981,Russia,China
+982,Russia,Estonia
+983,Russia,Finland
+984,Russia,Georgia
+985,Russia,Japan
+986,Russia,Kazakhstan
+987,Russia,North Korea
+988,Russia,Latvia
+989,Russia,Lithuania
+990,Russia,Mongolia
+991,Russia,Norway
+992,Russia,Poland
+993,Russia,Romania
+994,Russia,Sweden
+995,Russia,Turkey
+996,Russia,Ukraine
+997,Russia,United States
+998,Russia,Svalbard (Norway)
+999,Rwanda,Burundi
+1000,Rwanda,Democratic Republic of the Congo
+1001,Rwanda,Tanzania
+1002,Rwanda,Uganda
+1003,Saint Barthélemy(France),Antigua and Barbuda
+1004,Saint Barthélemy(France),Netherlands
+1005,Saint Barthélemy(France),Saint Kitts and Nevis
+1006,Saint Barthélemy(France),Anguilla (United Kingdom) Saint Martin(France)
+1007,Saint Barthélemy(France),Sint Maarten(Netherlands)
+1008,Saint Kitts and Nevis,Antigua and Barbuda
+1009,Saint Kitts and Nevis,Netherlands
+1010,Saint Kitts and Nevis,Venezuela
+1011,Saint Kitts and Nevis,Montserrat (United Kingdom)
+1012,Saint Kitts and Nevis,Saint Barthélemy(France)
+1013,Saint Lucia,Barbados
+1014,Saint Lucia,France
+1015,Saint Lucia,Saint Vincent and the Grenadines
+1016,Saint Lucia,Venezuela
+1017,Saint Martin(France),Netherlands
+1018,Saint Martin(France),Anguilla (United Kingdom)
+1019,Saint Martin(France),Saint Barthélemy(France)
+1020,Saint Martin(France),Sint Maarten(Netherlands)
+1021,Saint Pierre and Miquelon(France),Canada
+1022,Saint Vincent and the Grenadines,Barbados
+1023,Saint Vincent and the Grenadines,Grenada
+1024,Saint Vincent and the Grenadines,Saint Lucia
+1025,Saint Vincent and the Grenadines,Trinidad and Tobago
+1026,Saint Vincent and the Grenadines,Venezuela
+1027,Samoa,Tonga
+1028,Samoa,American Samoa(United States)
+1029,Samoa,Tokelau(New Zealand)
+1030,Samoa,Wallis and Futuna(France)
+1031,San Marino,Italy
+1032,São Tomé and Príncipe,Equatorial Guinea
+1033,São Tomé and Príncipe,Gabon
+1034,São Tomé and Príncipe,Nigeria
+1035,Saudi Arabia,Bahrain
+1036,Saudi Arabia,Egypt
+1037,Saudi Arabia,Eritrea
+1038,Saudi Arabia,Iran
+1039,Saudi Arabia,Iraq
+1040,Saudi Arabia,Jordan
+1041,Saudi Arabia,Kuwait
+1042,Saudi Arabia,Oman
+1043,Saudi Arabia,Qatar
+1044,Saudi Arabia,Sudan
+1045,Saudi Arabia,United Arab Emirates
+1046,Saudi Arabia,Yemen
+1047,Senegal,Cape Verde
+1048,Senegal,The Gambia
+1049,Senegal,Guinea
+1050,Senegal,Guinea-Bissau
+1051,Senegal,Mali
+1052,Senegal,Mauritania
+1053,Serbia,Bosnia and Herzegovina
+1054,Serbia,Bulgaria
+1055,Serbia,Croatia
+1056,Serbia,Hungary
+1057,Serbia,Montenegro
+1058,Serbia,North Macedonia
+1059,Serbia,Romania
+1060,Serbia,KosovoKosovo which some countries consider part of Serbia borders Albania
+1061,Seychelles,Comoros
+1062,Seychelles,Madagascar
+1063,Seychelles,Mauritius
+1064,Seychelles,Tanzania
+1065,Seychelles,French Southern and Antarctic Lands(France)
+1066,Sierra Leone,Guinea
+1067,Sierra Leone,Liberia
+1068,Singapore,Indonesia
+1069,Singapore,Malaysia
+1070,Sint Maarten(Netherlands),Netherlands Saint Barthélemy(France) Saint Martin(France)
+1071,Slovakia,Austria
+1072,Slovakia,Czech Republic
+1073,Slovakia,Hungary
+1074,Slovakia,Poland
+1075,Slovakia,Ukraine
+1076,Slovenia,Austria
+1077,Slovenia,Croatia
+1078,Slovenia,Italy
+1079,Slovenia,Hungary
+1080,Solomon Islands,Fiji
+1081,Solomon Islands,Papua New Guinea
+1082,Solomon Islands,Vanuatu
+1083,Solomon Islands,Coral Sea Islands(Australia)
+1084,Solomon Islands,New Caledonia(France)
+1085,Somalia,Djibouti
+1086,Somalia,Ethiopia
+1087,Somalia,Kenya
+1088,Somalia,YemenSomaliland which considers itself independent is the only part of Somalia to border Djibouti
+1089,Somaliland,Djibouti
+1090,Somaliland,Ethiopia
+1091,Somaliland,Somalia
+1092,Somaliland,Yemen
+1093,South Africa,Botswana
+1094,South Africa,Eswatini (Swaziland)
+1095,South Africa,Lesotho
+1096,South Africa,Mozambique
+1097,South Africa,Namibia
+1098,South Africa,Zimbabwe
+1099,South Ossetia,Georgia
+1100,South Ossetia,Russia
+1101,South Sudan,Central African Republic
+1102,South Sudan,Democratic Republic of the Congo
+1103,South Sudan,Ethiopia
+1104,South Sudan,Kenya
+1105,South Sudan,Sudan
+1106,South Sudan,Uganda
+1107,Spain,Algeria
+1108,Spain,Andorra
+1109,Spain,France
+1110,Spain,Italy
+1111,Spain,Morocco
+1112,Spain,Portugal
+1113,Spain,Gibraltar (United Kingdom)
+1114,Spain,Western Sahara(M)
+1115,Sri Lanka,India
+1116,Sri Lanka,Maldives
+1117,Sudan,Central African Republic
+1118,Sudan,Chad
+1119,Sudan,Egypt
+1120,Sudan,Eritrea
+1121,Sudan,Ethiopia
+1122,Sudan,Libya
+1123,Sudan,Saudi Arabia
+1124,Sudan,South Sudan
+1125,Suriname,Brazil
+1126,Suriname,France
+1127,Suriname,Guyana
+1128,Svalbard(Norway),Norway
+1129,Svalbard(Norway),Russia
+1130,Svalbard(Norway),Greenland(Denmark)
+1131,Sweden,Denmark
+1132,Sweden,Estonia
+1133,Sweden,Finland
+1134,Sweden,Germany
+1135,Sweden,Latvia
+1136,Sweden,Lithuania
+1137,Sweden,Norway
+1138,Sweden,Poland
+1139,Sweden,Russia
+1140,;Switzerland,Austria
+1141,;Switzerland,France
+1142,;Switzerland,Italy
+1143,;Switzerland,Liechtenstein
+1144,;Switzerland,Germany
+1145,Syria,Cyprus
+1146,Syria,Iraq
+1147,Syria,Israel
+1148,Syria,Jordan
+1149,Syria,Lebanon
+1150,Syria,Turkey
+1151,Taiwan,Brunei
+1152,Taiwan,China
+1153,Taiwan,Indonesia
+1154,Taiwan,Japan
+1155,Taiwan,Malaysia
+1156,Taiwan,Philippines
+1157,Taiwan,Vietnam
+1158,Tajikistan,Afghanistan
+1159,Tajikistan,China
+1160,Tajikistan,Kyrgyzstan
+1161,Tajikistan,Uzbekistan
+1162,Tanzania,Burundi
+1163,Tanzania,Comoros
+1164,Tanzania,Democratic Republic of the Congo
+1165,Tanzania,Kenya
+1166,Tanzania,Malawi
+1167,Tanzania,Mozambique
+1168,Tanzania,Rwanda
+1169,Tanzania,Seychelles
+1170,Tanzania,Uganda
+1171,Tanzania,Zambia
+1172,Thailand,Myanmar
+1173,Thailand,Cambodia
+1174,Thailand,India
+1175,Thailand,Indonesia
+1176,Thailand,Laos
+1177,Thailand,Malaysia
+1178,Thailand,Vietnam
+1179,Togo,Benin
+1180,Togo,Burkina Faso
+1181,Togo,Ghana
+1182,Tokelau(New Zealand),Kiribati
+1183,Tokelau(New Zealand),Samoa
+1184,Tokelau(New Zealand),American Samoa(United States)
+1185,Tokelau(New Zealand),Cook Islands(New Zealand)
+1186,Tokelau(New Zealand),Wallis and Futuna(France)
+1187,Tonga,Fiji
+1188,Tonga,Samoa
+1189,Tonga,American Samoa(United States)
+1190,Tonga,Niue(New Zealand)
+1191,Tonga,Wallis and Futuna(France)
+1192,Transnistria,Moldova
+1193,Transnistria,Ukraine
+1194,Trinidad and Tobago,Barbados
+1195,Trinidad and Tobago,Grenada
+1196,Trinidad and Tobago,Guyana
+1197,Trinidad and Tobago,Saint Vincent and the Grenadines
+1198,Trinidad and Tobago,Venezuela
+1199,Tunisia,Algeria
+1200,Tunisia,Italy
+1201,Tunisia,Libya
+1202,Tunisia,Malta
+1203,Turkey,Armenia
+1204,Turkey,Azerbaijan
+1205,Turkey,Bulgaria
+1206,Turkey,Cyprus
+1207,Turkey,Egypt
+1208,Turkey,Georgia
+1209,Turkey,Greece
+1210,Turkey,Iran
+1211,Turkey,Iraq
+1212,Turkey,Russia
+1213,Turkey,Syria
+1214,Turkey,UkraineTurkey has a Maritime border with Northern Cyprus which all other countries consider to be part of Cyprus
+1215,Turkmenistan,Afghanistan
+1216,Turkmenistan,Azerbaijan
+1217,Turkmenistan,Iran
+1218,Turkmenistan,Kazakhstan
+1219,Turkmenistan,Uzbekistan
+1220,Turks and Caicos Islands (United Kingdom),Bahamas
+1221,Turks and Caicos Islands (United Kingdom),Dominican Republic
+1222,Turks and Caicos Islands (United Kingdom),Haiti
+1223,Tuvalu,Fiji
+1224,Tuvalu,Kiribati
+1225,Tuvalu,Wallis and Futuna(France)
+1226,Uganda,Democratic Republic of the Congo
+1227,Uganda,Kenya
+1228,Uganda,Rwanda
+1229,Uganda,South Sudan
+1230,Uganda,Tanzania
+1231,Ukraine,Belarus
+1232,Ukraine,Hungary
+1233,Ukraine,Moldova
+1234,Ukraine,Poland
+1235,Ukraine,Romania
+1236,Ukraine,Russia
+1237,Ukraine,Slovakia
+1238,Ukraine,Turkey
+1239,United Arab Emirates,Iran
+1240,United Arab Emirates,Oman
+1241,United Arab Emirates,Qatar
+1242,United Arab Emirates,Saudi Arabia
+1243,United Kingdom,Belgium
+1244,United Kingdom,Denmark
+1245,United Kingdom,France
+1246,United Kingdom,Germany
+1247,United Kingdom,Ireland
+1248,United Kingdom,Netherlands
+1249,United Kingdom,Norway
+1250,United Kingdom,Faroe Islands(Denmark)
+1251,United Kingdom,Guernsey(United Kingdom)
+1252,United Kingdom,Isle of Man(United Kingdom)
+1253,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Antigua and Barbuda
+1254,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Argentina
+1255,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Bahamas
+1256,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Belgium
+1257,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Cuba
+1258,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Cyprus
+1259,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Denmark
+1260,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Dominican Republic
+1261,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,France
+1262,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Germany
+1263,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Haiti
+1264,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Honduras
+1265,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Ireland
+1266,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Jamaica
+1267,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Maldives
+1268,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Netherlands
+1269,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Norway
+1270,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Saint Kitts and Nevis
+1271,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Spain
+1272,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Venezuela
+1273,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Faroe Islands(Denmark)
+1274,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,French Polynesia(France)
+1275,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Puerto Rico(United States)
+1276,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,Saint Barthélemy(France) Saint Martin(France)
+1277,United Kingdom (plus British overseas territories and Crown dependencies)→including:→ Akrotiri and Dhekelia→;Anguilla→;Bermuda→;British Indian Ocean Territory→;British Virgin Islands→;Cayman Islands→;Falkland Islands→;Gibraltar→;Guernsey→;Isle of Man→;Jersey→;Montserrat→;Pitcairn Islands→;Saint Helena Ascension and Tristan da Cunha→;South Georgia and the South Sandwich Islands→;Turks and Caicos Islands,United States Virgin Islands(United States)
+1278,United States (excluding insular areas),Bahamas
+1279,United States (excluding insular areas),Canada
+1280,United States (excluding insular areas),Cuba
+1281,United States (excluding insular areas),Mexico
+1282,United States (excluding insular areas),Russia
+1283,United States (excluding insular areas),Midway Atoll(United States)
+1284,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Bahamas
+1285,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Canada
+1286,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Cuba
+1287,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Dominican Republic
+1288,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Haiti
+1289,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Jamaica
+1290,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Japan
+1291,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Kiribati
+1292,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Marshall Islands
+1293,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Mexico
+1294,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Federated States of Micronesia
+1295,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Netherlands
+1296,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Russia
+1297,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Samoa
+1298,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Tonga
+1299,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Venezuela
+1300,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Anguilla (United Kingdom)
+1301,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,British Virgin Islands (United Kingdom)
+1302,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Cook Islands(New Zealand)
+1303,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Niue(New Zealand)
+1304,United States (including insular areas)→includes:→;American Samoa→;Baker Island→;Guam→;Howland Island→;Jarvis Island→;Johnston Atoll→;Kingman Reef→;Midway Atoll→;Navassa Island→;Northern Mariana Islands→;Palmyra Atoll→;Puerto Rico→;United States Virgin Islands→;Wake Island,Tokelau(New Zealand)
+1305,United States Virgin Islands(United States),Netherlands
+1306,United States Virgin Islands(United States),Venezuela
+1307,United States Virgin Islands(United States),Anguilla (United Kingdom)
+1308,United States Virgin Islands(United States),British Virgin Islands (United Kingdom)
+1309,United States Virgin Islands(United States),Puerto Rico(United States)
+1310,Uruguay,Argentina
+1311,Uruguay,Brazil
+1312,Uzbekistan,Afghanistan
+1313,Uzbekistan,Kazakhstan
+1314,Uzbekistan,Kyrgyzstan
+1315,Uzbekistan,Tajikistan
+1316,Uzbekistan,Turkmenistan
+1317,Vanuatu,Fiji
+1318,Vanuatu,Solomon Islands
+1319,Vanuatu,New Caledonia(France)
+1320,Vatican City,Italy
+1321,Venezuela,Barbados
+1322,Venezuela,Brazil
+1323,Venezuela,Colombia
+1324,Venezuela,Dominica
+1325,Venezuela,Dominican Republic
+1326,Venezuela,France
+1327,Venezuela,Grenada
+1328,Venezuela,Guyana
+1329,Venezuela,Netherlands
+1330,Venezuela,Saint Kitts and Nevis
+1331,Venezuela,Saint Lucia
+1332,Venezuela,Saint Vincent and the Grenadines
+1333,Venezuela,Trinidad and Tobago
+1334,Venezuela,Aruba(Netherlands)
+1335,Venezuela,Curaçao(Netherlands)
+1336,Venezuela,Montserrat (United Kingdom)
+1337,Venezuela,Puerto Rico(United States)
+1338,Venezuela,United States Virgin Islands(United States)
+1339,Vietnam,Brunei
+1340,Vietnam,Cambodia
+1341,Vietnam,China
+1342,Vietnam,Indonesia
+1343,Vietnam,Laos
+1344,Vietnam,Malaysia
+1345,Vietnam,Philippines
+1346,Vietnam,Taiwan
+1347,Vietnam,Thailand
+1348,Wake Island (United States),Marshall Islands
+1349,Wallis and Futuna(France),Fiji
+1350,Wallis and Futuna(France),Samoa
+1351,Wallis and Futuna(France),Tonga
+1352,Wallis and Futuna(France),Tuvalu
+1353,Wallis and Futuna(France),Tokelau(New Zealand)
+1354,Western Sahara,Algeria
+1355,Western Sahara,Mauritania
+1356,Western Sahara,Morocco
+1357,Western Sahara,Spain
+1358,Yemen,Djibouti
+1359,Yemen,Eritrea
+1360,Yemen,Oman
+1361,Yemen,Saudi Arabia
+1362,Yemen,Somalia
+1363,Zambia,Angola
+1364,Zambia,Botswana
+1365,Zambia,Democratic Republic of the Congo
+1366,Zambia,Malawi
+1367,Zambia,Mozambique
+1368,Zambia,Namibia
+1369,Zambia,Tanzania
+1370,Zambia,Zimbabwe
+1371,Zimbabwe,Botswana
+1372,Zimbabwe,Mozambique
+1373,Zimbabwe,South Africa
+1374,Zimbabwe,Zambia
